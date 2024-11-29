@@ -24,5 +24,5 @@ Yariga is a fully functional dashboard that uses the MERN (MongoDB, Express.js, 
 - Install dependencies using npm install
 - Run the application using npm start
 ## Usage
-- Open the application in the browser using `https://yariga-web.netlify.app/`
+- Open the application in the browser using `[https://yariga-web.netlify.app/](https://yariga-main.netlify.app/)`
 - Use the navigation menu to access different pages and features of the dashboard
